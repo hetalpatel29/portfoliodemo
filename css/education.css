@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg_orange {
+    color: orange;
+}
+
+.bg_blue {
+    background-color: #004880;
+    clear: both;
+}
+
+.education {
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.row {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.educationcourse {
+    width: 33.333%;
+    float: left;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.courses {
+    width: 100%;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+}
+
+
+/* header section */
+
+.header {
+    width: 100%;
+    position: relative;
+    height: 300px;
+}
+
+.header img {
+    width: 100%;
+    height: 300px;
+}
+
+.educationfee {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: orange;
+    font-size: 20px;
+    position: absolute;
+    right: 10px;
+    bottom: -25px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 13px;
+    color: #004880;
+}
+
+.educationfeecomp {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #004880;
+    color: orange;
+    font-size: 20px;
+    padding: 10px;
+    position: absolute;
+    right: 10px;
+    bottom: -25px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 13px;
+}
+
+.dollaricon {
+    font-size: 17px;
+}
+
+.Designbutton {
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    background-color: #004880;
+    color: white;
+    outline: black;
+    border-radius: 1px;
+    position: absolute;
+    left: 20px;
+    bottom: -70px;
+}
+
+
+/* headersection end */
+
+
+/* title secton */
+
+.title {
+    font-size: 12px;
+    margin: 10px;
+    margin-top: 90px;
+    color: #004880;
+    text-align: left;
+    background-color: whitesmoke;
+    padding-left: 10px;
+}
+
+
+/* title section end */
+
+
+/* subtitle section */
+
+.subtitle {
+    margin: 10px;
+    color: grey;
+    font-size: 15px;
+    text-align: left;
+    left: 0px;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+
+/* subtitle section end */
+
+
+/* footer section */
+
+.footer {
+    width: 100%;
+    height: 50px;
+    position: relative;
+    margin: 20px 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+.footer span img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.personame {
+    color: #004880;
+    text-align: center;
+    margin-bottom: 10px;
+    position: absolute;
+    top: 12px;
+    left: 65px;
+    font-size: 17px
+}
+
+.footericon {
+    float: right;
+    margin: 12px 9px;
+    box-sizing: border-box;
+}
+
+.i {
+    color: #004880;
+    font-size: 17px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+
+/* footer ssection end */
